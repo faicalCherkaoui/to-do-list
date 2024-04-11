@@ -1,0 +1,33 @@
+.container{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;    
+}
+
+#input{
+   width: 500px; 
+   height: 40px;
+   padding: auto;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 20px;
+   border-radius: 90px;
+}
+.add{
+    background-color: rgb(245, 110, 32);
+    cursor: pointer;
+    width: 200px;
+    height: 40px;
+    border-radius: 90px;
+    font-size: large;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: auto;
+}
+.add:hover{
+background-color: green;
+}
+
+    
+    
+
+
